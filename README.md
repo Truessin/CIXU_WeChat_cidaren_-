@@ -2,7 +2,26 @@
 
 Windows 词达人任务桌面客户端，基于 [ularch/Easy_Cidaren](https://github.com/ularch/Easy_Cidaren) 修改。支持 Token 获取、任务多选队列、停止与切换、平滑滚动、本地答案匹配和可选模型辅助。
 
+# 声明：
+
+本软件仅仅只是作为学习交流，禁止商用！
+我觉得如果你要把时间挤出来用在你想做的事情上是可以考虑这项项目。
+英语学习是很重要的！本人刚开始也是想用这个软件刷题，现在不准备刷了。拿来开源。
+
 **默认关闭模型，无须 DeepSeek API Key。** 查询课程、获取题目和提交答案仍需联网。本地匹配不保证所有题型均可解答，也不保证分数。
+
+# 本软件可以接入大模型辅助做题
+
+首选DSH deepseek hardness 如果有不清楚的可以参考以下内容：
+进入deepseek开放平台
+https://platform.deepseek.com/usage
+注册，在左边一栏中找到API KEY
+点击
+然后点击创建API KEY
+记住自己的密钥，这个很重要
+充值过后把你的API复制到“模型辅助/API KEY”一栏中即可
+<img width="794" height="740" alt="image" src="https://github.com/user-attachments/assets/cbd3299e-8f7a-46b2-b3ed-7599c65c5a19" />
+# ⚠️ 不接入模型也可以做题
 
 ## 从源码运行
 
