@@ -1,0 +1,7 @@
+{
+  "files_checked": 86,
+  "findings": [],
+  "tests_passed": 109,
+  "archive_sha256": "564a5e26c71766a2e3b46df72820d01e0cce6b21840037153f071d71cf5f177e",
+  "scope": "Fresh public source only; excludes old Git history and personal runtime."
+}
