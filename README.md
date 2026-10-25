@@ -1,5 +1,7 @@
 # 词序 CiXu v1.5
 
+在左侧releases下载最新版
+
 Windows 词达人任务桌面客户端，基于 [ularch/Easy_Cidaren](https://github.com/ularch/Easy_Cidaren) 修改。支持 Token 获取、任务多选队列、停止与切换、平滑滚动、本地答案匹配和可选模型辅助。
 
 # 声明：
