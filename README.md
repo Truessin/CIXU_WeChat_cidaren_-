@@ -95,6 +95,9 @@ v1.5 改进释义格式、词性、否定、词形还原、例句填空和缓存
 
 独立修改版，非上游官方发行。来源和修改说明见 [NOTICES.md](NOTICES.md)，原始说明见 README-upstream.MD。采用 GPL-3.0，完整许可见 LICENSE，第三方许可见 THIRD-PARTY-LICENSES。分发程序时同时提供对应修改源码和许可说明。
 
+## 如遇无法解决的问题或者BUG
+
+13110197201@163.com📮邮箱私信我
 
 ## 觉得我做得好可以考虑请我喝点大水😄
 <img width="1242" height="1692" alt="0c71c5519ec60658e807d1e6b45a216f" src="https://github.com/user-attachments/assets/c044aa38-b110-4e2e-8881-2d5ad1c7735d" />
